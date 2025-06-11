@@ -1,4 +1,4 @@
 # shinkyu-web
 
 ## 公開URL
-https://adachs-lab.github.io/shinkyu-web
+https://adachis-lab.github.io/shinkyu-web/
